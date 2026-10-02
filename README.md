@@ -73,10 +73,7 @@ const elaine = {
   <a href="https://github.com/nagibatili">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:elaine@example.com">
+  <a href="mailto: nagibatili@yandex.ru">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
@@ -85,7 +82,7 @@ const elaine = {
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/nagibatili/count.svg" alt="Visitor Count" />
-  <p><i>Thanks for visiting! Have a great day 💖</i></p>
+  <p><i>Да я крутой 💖</i></p>
 </div>
 
 <div align="center">
