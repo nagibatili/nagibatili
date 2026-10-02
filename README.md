@@ -4,11 +4,11 @@
 
 ---
 
-## 💖 About Me
+## 💖 Немного про меня
 
 ```javascript
 const elaine = {
-    pronouns: "her",
+    pronouns: "ламинат",
     name: "Elaine",
     login: "nagibatili",
     location: "Russia",
