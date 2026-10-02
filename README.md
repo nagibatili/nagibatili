@@ -8,13 +8,13 @@
 
 ```javascript
 const elaine = {
-    pronouns: "she" | "her",
+    pronouns: "her",
     name: "Elaine",
     login: "nagibatili",
-    location: "🌍",
+    location: "Russia",
     code: ["JavaScript", "TypeScript", "Python", "HTML", "CSS"],
     currentlyLearning: ["React", "Node.js", "Figma"],
-    funFact: "I love turning ideas into beautiful, working things ✨",
+    funFact: "«Я люблю превращать идеи в красивые, работающие вещи.✨",
     askMeAbout: ["web dev", "UI/UX", "creativity", "coffee ☕"]
 };
 ```
