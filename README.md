@@ -57,7 +57,7 @@ console.log(elaine);
 
 <div align="center">
   <a href="https://github.com/nagibatili">
-    <img src="https://github-readme-stats.vercel.app/api?username=nagibatili&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&custom_title=My%20GitHub%20Stats" alt="Elaine's GitHub stats" width="49%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=nagibatili&show_icons=true&rank_icon=github&include_all_commits=true&theme=tokyonight&hide_border=true&custom_title=My%20GitHub%20Stats" alt="Elaine's GitHub stats" width="49%" />
   </a>
   <a href="https://github.com/nagibatili">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagibatili&layout=compact&theme=tokyonight&hide_border=true&card_width=320" alt="Top languages" width="32%" />
@@ -71,7 +71,7 @@ console.log(elaine);
     <img src="https://streak-stats.demolab.com?user=nagibatili&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2CY%5D" alt="Contribution streak" width="49%" />
   </a>
   <a href="https://github.com/nagibatili">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=nagibatili&theme=tokyo-night&hide_border=true&radius=10&area=true" alt="Activity graph" width="49%" />
+    <img src="https://github-activity-chart.vercel.app/graph?username=nagibatili&theme=tokyo-night&hide_border=true&radius=10&area=true" alt="Activity graph" width="49%" />
   </a>
 </div>
 
@@ -160,7 +160,7 @@ console.log(elaine);
 ## 🏆 Награды
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nagibatili&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=5" alt="Trophies" />
+  <img src="https://raw.githubusercontent.com/nagibatili/nagibatili/output/profile-trophy.svg" alt="Trophies" />
 </div>
 
 ---
@@ -218,7 +218,8 @@ console.log(elaine);
 </div>
 
 <!--
-  ⚠️ Чтобы картинка со змейкой появлялась, запусти workflow:
-  `.github/workflows/snake.yml` в этом репозитории.
-  Он каждый час обновляет SVG в ветке `output`.
+  ⚠️ Чтобы работали змейка и кубки, запусти workflow:
+  `.github/workflows/assets.yml` в этом репозитории
+  (Settings → Actions → Generate profile assets → Run workflow).
+  Он каждые 4 часа обновляет картинки в ветке `output`.
 -->
