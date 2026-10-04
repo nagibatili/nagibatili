@@ -26,7 +26,7 @@
 const elaine = {
   name       : "Elaine",
   login      : "nagibatili",
-  pronouns   : "she / her 💜",
+  pronouns   : "her 💜",
   role       : "Full-stack developer in progress",
   location   : "Russia 🇷🇺",
   born       : "на стыке гуманитария и it-гика",
